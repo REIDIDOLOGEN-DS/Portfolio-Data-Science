@@ -1,0 +1,13 @@
+#ignorer l'env
+env/
+#ignorer les fichiers compilé python
+__pycache__/
+*.py[cod]
+#ignorer lis checspoints de notebooks
+.ipynb_checkpoints/
+#ignorer les fichiers systemes
+.DS_Store
+#ignorer le dossier VScode
+.vscode/
+#ignorer les logs eventuels
+*.logs
